@@ -1,2 +1,2 @@
 # wordlists
-wordlists for password cracking
+Swedish related wordlists
