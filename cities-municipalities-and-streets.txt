@@ -1236,6 +1236,7 @@ aldermansvagen
 aldernas
 aldernäs
 alderskataviken
+ale
 alebacksgatan
 alebäcksgatan
 alebo
@@ -11975,6 +11976,7 @@ bjurgränd
 bjurhem
 bjurhemsvagen
 bjurhemsvägen
+bjurholm
 bjurholmsgatan
 bjurholmsplan
 bjurhovdagatan
@@ -15072,6 +15074,7 @@ botingeminnestad
 bötingeminnestad
 botjarnen
 botjärnen
+botkyrka
 botolfsbo
 botorp
 botorpeneback
@@ -18183,6 +18186,8 @@ burkensväg
 burlandet-siknas
 burlandet-siknäs
 burliden
+burlov
+burlöv
 burlovsvagen
 burlövsvägen
 burmavagen
@@ -19595,6 +19600,7 @@ dalramsvik
 dalripevagen
 dalripevägen
 dalrundan
+dals-ed
 dals-hogen
 dals-högen
 dals-hogennybygget
@@ -19833,6 +19839,7 @@ danby
 danbygard
 danbygård
 dandalen
+danderyd
 danderydsgatan
 danderydsvagen
 danderydsvägen
@@ -25154,6 +25161,7 @@ essingestråket
 essingetorget
 essovagen
 essövägen
+essunga
 essungaandersmikaelsgarden
 essungaandersmikaelsgården
 essungaanderstorp
@@ -36096,6 +36104,7 @@ gothlingatan
 göthlingatan
 gotiskavagen
 gotiskavägen
+gotland
 gotlandsgatan
 gotlandsresan
 gotlandsvagen
@@ -39592,6 +39601,7 @@ håbergsstigen
 habergsvagen
 håbergsvägen
 habo
+håbo
 haboarp
 haboarpstegarydet
 habobergsatra
@@ -41667,6 +41677,8 @@ hammarnsgard
 hammarnsgård
 hammarnvagen
 hammarnvägen
+hammaro
+hammarö
 hammarogatan
 hammarögatan
 hammarollesvagen
@@ -42078,6 +42090,7 @@ hanicksvagen
 hånicksvägen
 hanicksvallen
 hånicksvallen
+haninge
 haningevagen
 haningevägen
 hankabo
@@ -42444,6 +42457,8 @@ harjeasjonklubbnaset
 härjeåsjönklubbnäset
 harjeasjonnores
 härjeåsjönnores
+harjedalen
+härjedalen
 harjedalsgatan
 härjedalsgatan
 harjedalsvagen
@@ -42709,6 +42724,8 @@ harrvagen
 harrvägen
 harrvik
 harryblombergsgata
+harryda
+härryda
 harrykullmansvag
 harrykullmansväg
 harrylundahlsvag
@@ -50063,6 +50080,8 @@ jarbovagen
 järbovägen
 jardalavagen
 järdalavägen
+jarfalla
+järfälla
 jarflotta
 järflotta
 jarhois
@@ -54397,6 +54416,7 @@ kinandervägen
 kinavagen
 kinavägen
 kinbergsplats
+kinda
 kindagatan
 kindblomsvagen
 kindblomsvägen
@@ -62462,6 +62482,7 @@ lilladömestorp
 lilladoterodsvagen
 lilladoterödsvägen
 lilladrottninggatan
+lillaedet
 lillaedsasvagen
 lillaedsåsvägen
 lillaefrikgarden
@@ -64309,6 +64330,7 @@ ljushultsstigen
 ljuslinsvagen
 ljuslinsvägen
 ljusminnesgatan
+ljusnarsberg
 ljusnarsvagen
 ljusnarsvägen
 ljusnaset
@@ -66936,6 +66958,8 @@ mältvägen
 maluddsvagen
 maluddsvägen
 malung
+malung-salen
+malung-sälen
 malungsgatan
 malungshemsvagen
 malungshemsvägen
@@ -72071,6 +72095,7 @@ nordansjövägen
 nordansjoviken
 nordansjöviken
 nordanskog
+nordanstig
 nordansundsvagen
 nordansundsvägen
 nordantillhedsvagen
@@ -74344,6 +74369,7 @@ nykroppavagen
 nykroppavägen
 nykullavagen
 nykullavägen
+nykvarn
 nykvarnsgatan
 nykyrka
 nykyrkabockfall
@@ -76402,6 +76428,7 @@ orupsgatan
 örupsgatan
 orupsgrand
 orupsgränd
+orust
 orustgatan
 orvagen
 örvägen
@@ -76664,6 +76691,8 @@ oster-spannsjon
 öster-spannsjön
 ostera
 österå
+osteraker
+österåker
 osterakravagen
 österåkravägen
 osterang
@@ -77136,6 +77165,8 @@ ostragatan
 östragatan
 ostragetabrohult
 östragetabrohult
+ostragoinge
+östragöinge
 ostragolshultsvagen
 östragölshultsvägen
 ostragranberget
@@ -77845,6 +77876,8 @@ ovadersgatan
 ovädersgatan
 ovagen
 övägen
+ovanaker
+ovanåker
 ovanakersvagen
 ovanåkersvägen
 ovanbrogatan
@@ -77935,6 +77968,8 @@ overgard
 övergård
 overgardsvagen
 övergårdsvägen
+overkalix
+överkalix
 overklinten
 överklinten
 overklintenklintvagen
@@ -81091,6 +81126,7 @@ ragslingan
 rågslingan
 ragstigen
 rågstigen
+ragunda
 ragvagen
 rågvägen
 ragvaldsberg
@@ -93610,6 +93646,7 @@ sollundavagen
 sollundavägen
 sollyckevagen
 sollyckevägen
+solna
 solnagrand
 solnagränd
 solnan
@@ -94251,6 +94288,8 @@ sotehusvagen
 sotehusvägen
 sotemossevagen
 sotemossevägen
+sotenas
+sotenäs
 sotetorp
 sothonsvagen
 sothönsvägen
@@ -99850,6 +99889,7 @@ tantgredelinsväg
 tantgronsvag
 tantgrönsväg
 tantogatan
+tanum
 tanumnytorp
 tanumshede
 tanvagen
@@ -101030,6 +101070,8 @@ tjelvargrand
 tjelvargränd
 tjelvarvagen
 tjelvarvägen
+tjorn
+tjörn
 tjornarpsvagen
 tjörnarpsvägen
 tjornebacksvagen
@@ -103794,6 +103836,8 @@ tyralundgrensvag
 tyralundgrensväg
 tyrasvag
 tyrasväg
+tyreso
+tyresö
 tyrgatan
 tyrgrand
 tyrgränd
@@ -104304,6 +104348,7 @@ upplagsvagen
 upplagsvägen
 upplandavagen
 upplandavägen
+upplands-bro
 upplands-vasby
 upplands-väsby
 upplandsgatan
@@ -104311,6 +104356,8 @@ upplandsleden
 upplandsplan
 upplandsvagen
 upplandsvägen
+upplandsvasby
+upplandsväsby
 upplidsvagen
 upplidsvägen
 upplysningensvag
@@ -104332,6 +104379,7 @@ uppsjövägen
 uppstigen
 uppvedabyvag
 uppvedabyväg
+uppvidinge
 uppvindsvagen
 uppvindsvägen
 uraforsvagen
@@ -105914,6 +105962,8 @@ värmaregatan
 varmblodsgatan
 varmbolsvagen
 värmbolsvägen
+varmdo
+värmdö
 varmdogatan
 värmdögatan
 varmdolill-kran
@@ -109916,6 +109966,7 @@ yddingevagen
 yddingevägen
 yderhultsvagen
 yderhultsvägen
+ydre
 ydregatan
 ydrevagen
 ydrevägen
